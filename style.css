@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.container{
+    width: 500px;
+    height: 800px;
+    background-color: yellow;
+}
+
+h1{
+    font-size: 60px;
+    margin-top: 20px;
+    text-align: center;
+    color: red;
+}
+.box{
+    width: 220px;
+    height: 220px;
+  
+}
+.box img{
+    width: 100%;
+    border-radius: 50%;
+    height: 180px;
+}
+
+h2{
+    text-align: center;
+    background-color: white;
+    border-radius: 30px;
+    color: red;
+}
+
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 0px 20px;
+}
+
+h3{
+    color: red;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h4{
+    font-size: 50px;
+    text-align: center;
+    color: red;
+}
+
+h5{
+    font-size: 50px;
+    color: rgb(233, 85, 85);
+    margin-left: 50px;
+}
